@@ -1,0 +1,10 @@
+html {
+    cursor: url('../img/pistol3.png'), auto;
+}
+
+body {
+    background: linear-gradient(to bottom, $grey, $grey-light, $grey-dark);
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}

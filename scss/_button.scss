@@ -1,0 +1,10 @@
+#restart {
+    @include centerDiv;
+    @include resetBtn;
+    top: 60%;
+    cursor: inherit;
+    font: $font;
+    color: $font-highlight;
+    text-shadow: -5px -5px black;
+    visibility: hidden;
+}
